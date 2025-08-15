@@ -6,13 +6,13 @@
 
 <!-- Profile Views -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=harish-exe&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harish-exe" /> 
+  <img src="https://komarev.com/ghpvc/?username=Harish-exc&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Harish-exc" /> 
 </p>
 
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harish-exe&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="harish-exe" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Harish-exc&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -23,7 +23,8 @@
 - ☁️ **Cloud Skills**: AWS (Certified), Azure, GCP basics  
 - ⚙️ **DevOps Tools**: Jenkins, Kubernetes, Docker, Ansible, Terraform, Grafana, Prometheus  
 - 💻 **Programming**: Python, Java (Spring Boot basics)  
-- 📜 **Certifications**: AWS Cloud Practitioner    
+- 📜 **Certifications**: AWS Cloud Practitioner
+- 🌱 Currently learning **Microservices Deployment & Security in AWS**  
 - 💬 Ask me about **CI/CD pipelines, AWS services, Infrastructure Automation**
 
 ---
@@ -49,17 +50,17 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harish-exe&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harish-exc&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harish-exe&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Harish-exc&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-exe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-exc&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
